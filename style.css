@@ -1,0 +1,9 @@
+input{
+    margin: 10px;
+}
+body{
+    background: linear-gradient(120deg,#025ef2,#00e7fc);
+    color: black;
+    font-family:  sans-serif;
+    text-align: center;
+}
